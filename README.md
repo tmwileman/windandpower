@@ -17,7 +17,8 @@ In order accurately represent the weather at each regional node, climate data co
 The weather data was joined to the wind generation and market table by first creating lists of key-value pairs matching regional nodes with their corresponding airport. The matching airport was then appended to the wind generation and market table. Finally, the two tables were joined on matching dates and airport names. The result is a data table consisting of historical pricing trends, wind generation statistics, and weather data for 2016 and 2017. 
 
 ## Bibliography
-ERCOT. (2018, 09 03). ERCOT Foundations. Retrieved from ERCOT: http://www.ercot.com/services/training/course/151432#schedule
-Federal Energy Regulatory Commission. (2017, December 4). Electric Power Markets: Texas (ERCOT). Retrieved from Federal Energy Regulatory Commission: https://www.ferc.gov/market-oversight/mkt-electric/texas.asp
+  * ERCOT. (2018, 09 03). ERCOT Foundations. Retrieved from ERCOT: http://www.ercot.com/services/training/course/151432#schedule
 
-Humphrey, G. (2018, August - September). Email exchange discussing wind energy generation and pricing. (T. Wileman, Interviewer)
+  * Federal Energy Regulatory Commission. (2017, December 4). Electric Power Markets: Texas (ERCOT). Retrieved from Federal Energy Regulatory Commission: https://www.ferc.gov/market-oversight/mkt-electric/texas.asp
+
+  * Humphrey, G. (2018, August - September). Email exchange discussing wind energy generation and pricing. (T. Wileman, Interviewer)
