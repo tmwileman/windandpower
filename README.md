@@ -18,6 +18,12 @@ The weather data was joined to the wind generation and market table by first cre
 
 ## Presentation
 ![Slide 1](Slide1.JPG)
+![Slide 2](Slide2.JPG)
+![Slide 3](Slide3.JPG)
+![Slide 4](Slide4.JPG)
+![Slide 5](Slide5.JPG)
+![Slide 6](Slide6.JPG)
+![Slide 7](Slide7.JPG)
 
 ## Bibliography
   * ERCOT. (2018, 09 03). ERCOT Foundations. Retrieved from ERCOT: http://www.ercot.com/services/training/course/151432#schedule
