@@ -1,6 +1,6 @@
 # windandpower
 
-This project won the 2019 Duke MQM Summer Data Competition to engineer a reliable data set that could be used for follow on analysis. I scraped, cleaned, and engineered features for two years of energy generation data from the ERCOT website with the intention of using the data to answer the question, "What effect does a 1MW load increase/decreasse change the price that MW can be sold for?"
+This project won the 2019 Duke MQM Summer Data Competition to engineer a reliable data set that could be used for follow on analysis. I scraped, cleaned, and engineered features for two years of energy generation data from the ERCOT website and weather data from NOAA with the intention of using the data to answer the question, "What effect does a 1MW load increase/decreasse change the price that MW can be sold for?"
 
 ## Problem
 If renewable energy sources like wind are to supplant oil and gas they must become cost effective for energy generators and consumers. Renewable energy firms must be able to anticipate market demand and their own supply capabilities to competitively price their product. Historical pricing trends in day-ahead and real-time markets, energy production rates, and the associated weather data are critical components to accurate price and power generation forecasting. A data set combining these parameters is essential to a renewable energy company’s strategy. Unfortunately, published data sets on wind energy are incomplete; failing to combine pricing, generation, and weather data.
